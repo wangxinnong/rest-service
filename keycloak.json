@@ -1,0 +1,10 @@
+{
+  "realm": "sock",
+  "auth-server-url": "https://slc09wqe.us.oracle.com/auth",
+  "ssl-required": "external",
+  "resource": "rest-service",
+  "credentials": {
+    "secret": "fdbb827a-ca81-4534-a53a-2529b91e1b37"
+  },
+  "policy-enforcer": {}
+}
